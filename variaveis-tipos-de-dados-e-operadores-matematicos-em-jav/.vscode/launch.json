@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Operacoes_aritmeticas",
+            "request": "launch",
+            "mainClass": "Operacoes_aritmeticas",
+            "projectName": "variaveis-tipos-de-dados-e-operadores-matematicos-em-jav_1aac6454"
+        },
+        {
+            "type": "java",
+            "name": "Launch Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "variaveis-tipos-de-dados-e-operadores-matematicos-em-jav_1aac6454"
+        },
+        {
+            "type": "java",
+            "name": "Launch Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "Projeto java_ba85b0ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operacoes_aritmeticas",
+            "request": "launch",
+            "mainClass": "Operacoes_aritmeticas",
+            "projectName": "Projeto java_ba85b0ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variáveis",
+            "request": "launch",
+            "mainClass": "Variáveis",
+            "projectName": "Projeto java_ba85b0ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch dados",
+            "request": "launch",
+            "mainClass": "dados",
+            "projectName": "Projeto java_ba85b0ad"
+        }
+    ]
+}

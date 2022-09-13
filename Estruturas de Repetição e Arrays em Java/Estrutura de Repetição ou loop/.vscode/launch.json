@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "Ex6_Fatorial",
+            "projectName": "Estruturas de Repetição e Arrays em Java_56449f60"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "Estruturas de Repetição e Arrays em Java_56449f60"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Estruturas de Repetição e Arrays em Java_56449f60"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParImpar",
+            "request": "launch",
+            "mainClass": "ParImpar",
+            "projectName": "Estruturas de Repetição e Arrays em Java_56449f60"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorMedia",
+            "request": "launch",
+            "mainClass": "MaiorMedia",
+            "projectName": "Estruturas de Repetição e Arrays em Java_56449f60"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Nome_Idade",
+            "request": "launch",
+            "mainClass": "Nome_Idade",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

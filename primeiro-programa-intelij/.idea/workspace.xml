@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42f88974-d9e7-4963-8ff1-8feea373db93" name="Changes" comment="commit 1">
+      <change afterPath="$PROJECT_DIR$/../Trabalhando com Collections Java1/Set1/Metodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/out/production/primeiro-programa-intelij/br/com/dio/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/out/production/primeiro-programa-intelij/br/com/dio/model/Hiena.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/primeiro-programa-intelij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java 2/primeiro-programa-intelij/src/br/com/dio/model/Hiena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/out/production/primeiro-programa-intelij/br/com/dio/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/out/production/primeiro-programa-intelij/br/com/dio/model/Hiena.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/primeiro-programa-intelij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/primeiro-programa-intelij/src/br/com/dio/model/Hiena.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AwtG0xzoKDNILLEf2dgEqgesLX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/caiom/Desktop/Git/Aprendendo Java/variaveis-tipos-de-dados-e-operadores-matematicos-em-jav",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
+      <module name="primeiro-programa-intelij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeiroPrograma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f88974-d9e7-4963-8ff1-8feea373db93" name="Changes" comment="" />
+      <created>1655932410527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655932410527</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <created>1655993993147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655993993147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 1">
+      <created>1655994205974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655994205975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 1">
+      <created>1655994510463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655994510463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
